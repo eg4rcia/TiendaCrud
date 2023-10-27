@@ -1,0 +1,11 @@
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\bin\Debug\net6.0\TiendaCrudTest.Entitys.deps.json
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\bin\Debug\net6.0\TiendaCrudTest.Entitys.dll
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\bin\Debug\net6.0\TiendaCrudTest.Entitys.pdb
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\obj\Debug\net6.0\TiendaCrudTest.Entitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\obj\Debug\net6.0\TiendaCrudTest.Entitys.AssemblyInfoInputs.cache
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\obj\Debug\net6.0\TiendaCrudTest.Entitys.AssemblyInfo.cs
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\obj\Debug\net6.0\TiendaCrudTest.Entitys.csproj.CoreCompileInputs.cache
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\obj\Debug\net6.0\TiendaCrudTest.Entitys.dll
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\obj\Debug\net6.0\refint\TiendaCrudTest.Entitys.dll
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\obj\Debug\net6.0\TiendaCrudTest.Entitys.pdb
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Entitys\obj\Debug\net6.0\ref\TiendaCrudTest.Entitys.dll

@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TiendaCrudTest.Front</title>
+   @*  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TiendaCrudTest.Front.styles.css" asp-append-version="true" /> *@
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7cPoppins:300,400,500,600,700,800,900&amp;display=swap" rel="stylesheet">
+    <link href="~/assets/css/OverlayScrollbars.min.css" rel="stylesheet">
+    <link href="~/assets/css/theme-rtl.min.css" rel="stylesheet" id="style-rtl">
+    <link href="~/assets/css/theme.min.css" rel="stylesheet" id="style-default">
+    <link href="~/assets/css/user-rtl.min.css" rel="stylesheet" id="user-style-rtl">
+    <link href="~/assets/css/user.min.css" rel="stylesheet" id="user-style-default">
+    <link href="~/assets/css/LobiBox.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/assets/css/iconsweet.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/css/css-r/app.min2.css">
+
+
+
+    <script>
+        var isRTL = JSON.parse(localStorage.getItem('isRTL'));
+        if (isRTL) {
+            var linkDefault = document.getElementById('style-default');
+            var userLinkDefault = document.getElementById('user-style-default');
+            linkDefault.setAttribute('disabled', true);
+            userLinkDefault.setAttribute('disabled', true);
+            document.querySelector('html').setAttribute('dir', 'rtl');
+        } else {
+            var linkRTL = document.getElementById('style-rtl');
+            var userLinkRTL = document.getElementById('user-style-rtl');
+            linkRTL.setAttribute('disabled', true);
+            userLinkRTL.setAttribute('disabled', true);
+        }
+    </script>
+
+    <style>
+        .mobile-nav {
+            background: #F1F1F1;
+            position: fixed;
+            bottom: 0;
+            height: 50px;
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 0px !important;
+        }
+
+        .bloc-icon {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+            .bloc-icon img {
+                width: 30px;
+            }
+
+        .nav-pills > li {
+            float: none !important;
+            display: inline-block !important;
+            zoom: 1 !important;
+        }
+
+        .nav-pills {
+            text-align: center !important;
+        }
+
+
+        .b-success {
+            margin-right: 15px;
+        }
+
+
+        .col-xs-4 {
+            width: 25%;
+        }
+
+        .imglow {
+            width: 90px;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TiendaCrudTest.Front</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Salir">Cerrar Sesion</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - TiendaCrudTest.Front - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+  @*  
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script> *@
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/assets/js/popper.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/anchor.min.js"></script>
+    <script src="~/assets/js/is.min.js"></script>
+    <script src="~/assets/js/echarts.min.js"></script>
+    <script src="~/assets/js/all.min.js"></script>
+    <script src="~/assets/js/lodash.min.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
+    <script src="~/assets/js/list.min.js"></script>
+    <script src="~/assets/js/theme.js"></script>
+    <script src="~/assets/js/interfaz/lobibox.min.js"></script>
+    <script src="~/assets/js/interfaz/cn.js"></script>
+    <script src="~/assets/js/interfaz/productoscard.js"></script>
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

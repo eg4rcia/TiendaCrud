@@ -1,0 +1,621 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TiendaCrudTest.Front.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TiendaCrudTest.Front.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\LobiBox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\LobiBox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\OverlayScrollbars.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\choices.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\choices.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\css-r\\app.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\css-r\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\css-r\\app.min2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\css-r\\app.min2.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\css-r\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\css-r\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\css-r\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\css-r\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flatpickr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\fonts\\LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmP.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmP.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\fonts\\gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUce.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUce.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\fonts\\hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\fonts\\oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvR.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvR.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\iconsweet.css",
+      "PackagePath": "staticwebassets\\assets\\css\\iconsweet.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\loading.css",
+      "PackagePath": "staticwebassets\\assets\\css\\loading.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\theme-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\user-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\user-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\css\\user.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\user.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\14.png",
+      "PackagePath": "staticwebassets\\assets\\img\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\3-thumb.png",
+      "PackagePath": "staticwebassets\\assets\\img\\3-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\47.png",
+      "PackagePath": "staticwebassets\\assets\\img\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\4_1x.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\4_1x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\amah.png",
+      "PackagePath": "staticwebassets\\assets\\img\\amah.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\arrows-h.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\arrows-h.svg"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\as.png",
+      "PackagePath": "staticwebassets\\assets\\img\\as.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\card.png",
+      "PackagePath": "staticwebassets\\assets\\img\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\corner-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\corner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\corner-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\corner-2.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\corner-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\corner-3.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\corner-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\corner-4.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\default.png",
+      "PackagePath": "staticwebassets\\assets\\img\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\docs.png",
+      "PackagePath": "staticwebassets\\assets\\img\\docs.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\falcon-mode-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\falcon-mode-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\falcon-mode-default.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\falcon-mode-default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\falcon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\falcon.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\inverted.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inverted.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\navbar-vertical.png",
+      "PackagePath": "staticwebassets\\assets\\img\\navbar-vertical.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\oxford.png",
+      "PackagePath": "staticwebassets\\assets\\img\\oxford.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\vibrant.png",
+      "PackagePath": "staticwebassets\\assets\\img\\vibrant.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\weather-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\weather-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\weather-sm.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\weather-sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\x.png",
+      "PackagePath": "staticwebassets\\assets\\img\\x.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\img\\zip.png",
+      "PackagePath": "staticwebassets\\assets\\img\\zip.png"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\OverlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\OverlayScrollbars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\anchor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\anchor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\chart-example.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart-example.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\choices.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\choices.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\dayjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dayjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\echarts.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\flatpickr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\flatpickr.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\actualizarpwd.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\actualizarpwd.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\analisis.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\analisis.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\cn.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\cn.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\direcciones.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\direcciones.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\laboratorios.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\laboratorios.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\lobibox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\login.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\pago.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\pago.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\pedidos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\pedidos.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\planes.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\planes.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\productos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\productos.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\productoscard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\productoscard.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\productoscardold.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\productoscardold.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\recuperar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\recuperar.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\registro.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\registro.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\signos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\signos.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\interfaz\\validacodigo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\interfaz\\validacodigo.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\is.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\is.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\js-r\\angular.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\js-r\\angular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\js-r\\stop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\js-r\\stop.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\list.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\list.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\lodash.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lodash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\polyfill.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\polyfill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\repartimos\\repartimos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\repartimos\\repartimos.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CMH PRIVADO\\source\\repos\\TiendaCrudTest\\TiendaCrudTest.Front\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TiendaCrudTest.Front.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TiendaCrudTest.Front.props",
+      "PackagePath": "build\\TiendaCrudTest.Front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TiendaCrudTest.Front.props",
+      "PackagePath": "buildMultiTargeting\\TiendaCrudTest.Front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TiendaCrudTest.Front.props",
+      "PackagePath": "buildTransitive\\TiendaCrudTest.Front.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

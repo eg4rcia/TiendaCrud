@@ -1,0 +1,17 @@
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\bin\Debug\net6.0\TiendaCrudTest.Bussiness.deps.json
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\bin\Debug\net6.0\TiendaCrudTest.Bussiness.dll
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\bin\Debug\net6.0\TiendaCrudTest.Bussiness.pdb
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\TiendaCrudTest.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\TiendaCrudTest.Bussiness.AssemblyInfoInputs.cache
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\TiendaCrudTest.Bussiness.AssemblyInfo.cs
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\TiendaCrudTest.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\TiendaCrudTest.Bussiness.dll
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\refint\TiendaCrudTest.Bussiness.dll
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\TiendaCrudTest.Bussiness.pdb
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\ref\TiendaCrudTest.Bussiness.dll
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\bin\Debug\net6.0\TiendaCrudTest.Data.dll
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\bin\Debug\net6.0\TiendaCrudTest.Entitys.dll
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\bin\Debug\net6.0\TiendaCrudTest.Data.pdb
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\bin\Debug\net6.0\TiendaCrudTest.Entitys.pdb
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\TiendaCrudTest.Bussiness.csproj.AssemblyReference.cache
+C:\Users\CMH PRIVADO\source\repos\TiendaCrudTest\TiendaCrudTest.Bussiness\obj\Debug\net6.0\TiendaCrudTest.Bussiness.csproj.CopyComplete
